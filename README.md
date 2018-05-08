@@ -121,7 +121,7 @@ threads.append(thread2)
 The final step was to develop a platform for a user to communicate with the pi i.e. to tell the robot what to do. For this purpose, we developed an Android app that sends the data to a Wi-Fi router. The Wi-Fi router then send that data to the Wi-Fi module that we installed on pi to receive data from Wi-Fi routers. Then, that data is read and processed, and then it’s decided which task has to be performed.
 
 
-## 4. Conclusions
+## 4. Conclusion
 
 To summarize it all, we have accomplished all of the main tasks that we set out to accomplish about 9 months ago. We performed different types of hardware work that we had never done before and that was one of the things that we got to learn during our Final Year Project. As interesting as this new hardware work was for us, it wasn’t without its difficulties and complications, which I’ll try to explain in the paragraph below.
 As mentioned before in our reports, our project was continuation of EE project which was to automate the car. But unfortunately, when we got the car, it wasn’t working as it was supposed to work. So the first stage in our project became to automate this car. Now we tried our best, along with the help of Sir Yasir Niaz Khan, but the hardware problems were too many to solve. So after trying for almost 4 months, we had to move to a smaller robotic car and from then on, we did our whole project on that car.
