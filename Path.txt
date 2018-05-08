@@ -1,0 +1,27 @@
+Liberty Gate#1,4,Liberty Corridor Gate,X,X,X
+Liberty Corridor Gate,2,Liberty Gate#2,Liberty Gate#1,X,X
+Liberty Gate#2,3,Liberty Corridor,Liberty Corridor Gate,X,X
+Liberty Corridor,3,Badminton Court Turn,Liberty Gate#2,X,X
+Badminton Court Turn,9,X,Liberty Corridor,X,Video Conference Corridor,5
+Video Conference Corridor,4,Video Conference Room,Badminton Court Turn,X,X
+Video Conference Room,3,Dr. A.D.Raza Office,Video Conference Corridor,X,X
+Dr. A.D.Raza Office,3,Dr. S.M. Sajid Office,Video Conference Room,X,X
+Dr. S.M. Sajid Office,2,Raheela Tariq Office,Dr. A.D.Raza Office,X,X
+Raheela Tariq Office,3,Sciences & Humanities Corridor,Dr. S.M. Sajid Office,X,X
+Sciences & Humanities Corridor,4,Sciences & Humanities Department,Raheela Tariq Office,X,X
+Sciences & Humanities Department,8,Manager Admin & Accounts,Sciences & Humanities Corridor,X,X
+Manager Admin & Accounts,8,Reception,Sciences & Humanities Department,X,X
+Reception,5,Behind the Stairs,Manager Admin & Accounts,X,X
+Behind the Stairs,5,Stairs,Reception,X,X
+Stairs,5,After Stairs,Behind the Stairs,X,X
+After Stairs,5,Lab 2-3 Corridor#1,Stairs,X,X
+Lab 2-3 Corridor#1,4,Lab 2-3 Corridor#2,After Stairs,X,X
+Lab 2-3 Corridor#2,4,Lab 2-3 Corridor#3,Lab 2-3 Corridor#1,X,X
+Lab 2-3 Corridor#3,4,Lab 2-3 Corridor#4,Lab 2-3 Corridor#2,X,X
+Lab 2-3 Corridor#4,4,Lab 2-3 Corridor#5,Lab 2-3 Corridor#3,X,X
+Lab 2-3 Corridor#5,4,Lab 2-3 Corridor#6,Lab 2-3 Corridor#4,X,X
+Lab 2-3 Corridor#6,4,Lab 2-3 Corridor#7,Lab 2-3 Corridor#5,X,X
+Lab 2-3 Corridor#7,6,Lab 2-3,Lab 2-3 Corridor#6,X,X
+Lab 2-3,9,Lab 1-2-3 Turn,Lab 2-3 Corridor#7,X,X
+Lab 1-2-3 Turn,8,X,Lab 2-3,X,Lab 1,4
+Lab 1,5,X,Lab 1-2-3 Turn,X,X
